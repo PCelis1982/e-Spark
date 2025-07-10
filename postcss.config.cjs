@@ -1,3 +1,4 @@
+// postcss.config.cjs
 import tailwindcss from '@tailwindcss/postcss';
 import autoprefixer from 'autoprefixer';
 
